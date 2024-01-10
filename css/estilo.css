@@ -78,6 +78,7 @@ main {
     text-transform: uppercase;
     background-color: deepskyblue;
     margin-bottom: 3rem;
+    margin-top: 1rem;
 }
 
 /*Cards*/
@@ -85,7 +86,6 @@ main {
     border-radius: 15px;
     display: inline-block;
     margin-bottom: 2rem;
-
 }
 
 .card h5 {
@@ -108,7 +108,7 @@ main {
 .btnComprar {
     background-color: rgb(238, 47, 255);
     text-align: center;
-    margin-left: 40%;
+    margin-left: 35%;
     color: #ffffff;
 }
 
