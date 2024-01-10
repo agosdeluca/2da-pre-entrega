@@ -73,10 +73,11 @@ main {
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: bold;
-    font-size: 40px;
+    font-size: 50px;
     padding: 5px;
     text-transform: uppercase;
     background-color: deepskyblue;
+    margin-bottom: 3rem;
 }
 
 /*Cards*/
@@ -107,7 +108,7 @@ main {
 .btnComprar {
     background-color: rgb(238, 47, 255);
     text-align: center;
-    margin-left: 46%;
+    margin-left: 40%;
     color: #ffffff;
 }
 
