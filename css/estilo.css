@@ -100,10 +100,6 @@ main {
     font-size: 18px;
 }
 
-.contenedorCards {
-    background-color: mediumorchid;
-}
-
 .btnComprar {
     background-color: rgb(238, 47, 255);
     text-align: center;
@@ -138,10 +134,7 @@ main {
         height: 100%;
         margin-left: 3%;
     }
-
-    
 }
-
 
 /*APLICO MEDIA QUERIES A VISTA ESCRITORIO*/
 @media (min-width:1024px) {
@@ -206,7 +199,6 @@ footer small {
     font-size: 18px;
     font-weight: bold;
     text-align: center;
-
 }
 
 /*tienda.html*/
@@ -231,9 +223,11 @@ footer small {
     margin-bottom: 2rem;
     margin-top: 2rem;
 }
+
 .contenedorCardsTienda {
     background-color: rgb(194, 255, 80);
 }
+
 /*nosotros.html*/
 .tituloNostros {
     text-align: center;
